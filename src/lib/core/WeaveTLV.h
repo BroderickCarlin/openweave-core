@@ -36,6 +36,7 @@
 #include "WeaveTLVTags.h"
 #include "WeaveTLVTypes.h"
 
+#include <qcbor.h>
 // forward declaration of the PacketBuffer class used within the header.
 namespace nl {
 namespace Weave {
